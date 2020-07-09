@@ -1,3 +1,5 @@
+![visitor](https://visitor-badge.glitch.me/badge?page_id=bakumon.bakumon)
+
 Android 开发菜鸟兼**独立开发者**
 
 独立开发的项目:
