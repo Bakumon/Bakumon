@@ -2,6 +2,8 @@
 
 Android 开发菜鸟兼**独立开发者**
 
-独立开发的项目:
+[![Bakumon's github stats](https://github-readme-stats.vercel.app/api?username=Bakumon)](https://github.com/Bakumon)
+
+作品:
 - [**那样记账(App)**](https://www.coolapk.com/apk/me.bakumon.moneykeeper)
 - [**奇趣网站收藏家(Web)**](https://fuun.fun/)
